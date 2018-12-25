@@ -1,0 +1,3 @@
+# Background
+We propose the use of basic inertial measurement units (IMU) which contain sensors such as accelerometers and gyroscopes already on-board drones to detect the speed and direction of wind gusts. The ability to quickly sense wind gusts has many applications, the most notable of which is in flight assistance of the drone,
+where it may adjust motor power parameter to compensate for such external factors or steer the drone toward a safer direction. To illustrate the feasibility of the approach, we conducted studies to assess how reliably wind speed and wind direction can be detected while a quad-copter drone is hovering and then in-motion, using off-the-shelf classifiers.
